@@ -1,19 +1,19 @@
 {
   "files": {
-    "app.js": "/RSSViewer/static/js/app.b04f251a.chunk.js",
-    "app.js.map": "/RSSViewer/static/js/app.b04f251a.chunk.js.map",
-    "runtime~app.js": "/RSSViewer/static/js/runtime~app.a06f7e70.js",
-    "runtime~app.js.map": "/RSSViewer/static/js/runtime~app.a06f7e70.js.map",
-    "static/js/2.55413780.chunk.js": "/RSSViewer/static/js/2.55413780.chunk.js",
-    "static/js/2.55413780.chunk.js.map": "/RSSViewer/static/js/2.55413780.chunk.js.map",
-    "index.html": "/RSSViewer/index.html",
-    "manifest.json": "/RSSViewer/manifest.json",
-    "serve.json": "/RSSViewer/serve.json",
-    "static/js/2.55413780.chunk.js.LICENSE.txt": "/RSSViewer/static/js/2.55413780.chunk.js.LICENSE.txt"
+    "app.js": "./static/js/app.b04f251a.chunk.js",
+    "app.js.map": "./static/js/app.b04f251a.chunk.js.map",
+    "runtime~app.js": "./static/js/runtime~app.30b509be.js",
+    "runtime~app.js.map": "./static/js/runtime~app.30b509be.js.map",
+    "static/js/2.a98b0972.chunk.js": "./static/js/2.a98b0972.chunk.js",
+    "static/js/2.a98b0972.chunk.js.map": "./static/js/2.a98b0972.chunk.js.map",
+    "index.html": "./index.html",
+    "manifest.json": "./manifest.json",
+    "serve.json": "./serve.json",
+    "static/js/2.a98b0972.chunk.js.LICENSE.txt": "./static/js/2.a98b0972.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.a06f7e70.js",
-    "static/js/2.55413780.chunk.js",
+    "static/js/runtime~app.30b509be.js",
+    "static/js/2.a98b0972.chunk.js",
     "static/js/app.b04f251a.chunk.js"
   ]
 }
