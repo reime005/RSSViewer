@@ -1,0 +1,19 @@
+{
+  "files": {
+    "app.js": "/rssviewer/static/js/app.b04f251a.chunk.js",
+    "app.js.map": "/rssviewer/static/js/app.b04f251a.chunk.js.map",
+    "runtime~app.js": "/rssviewer/static/js/runtime~app.0abb52ad.js",
+    "runtime~app.js.map": "/rssviewer/static/js/runtime~app.0abb52ad.js.map",
+    "static/js/2.0f725aef.chunk.js": "/rssviewer/static/js/2.0f725aef.chunk.js",
+    "static/js/2.0f725aef.chunk.js.map": "/rssviewer/static/js/2.0f725aef.chunk.js.map",
+    "index.html": "/rssviewer/index.html",
+    "manifest.json": "/rssviewer/manifest.json",
+    "serve.json": "/rssviewer/serve.json",
+    "static/js/2.0f725aef.chunk.js.LICENSE.txt": "/rssviewer/static/js/2.0f725aef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.0abb52ad.js",
+    "static/js/2.0f725aef.chunk.js",
+    "static/js/app.b04f251a.chunk.js"
+  ]
+}
